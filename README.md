@@ -42,17 +42,6 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Tejas's GitHub Stats" />
-  <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TEJASWADPILLEWAR7&theme=tokyonight" alt="Tejas's GitHub Streak" />
-
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 💡 **"Coding is like humor. If you have to explain it, it’s bad."** 😆
