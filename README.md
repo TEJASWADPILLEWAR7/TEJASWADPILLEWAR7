@@ -2,6 +2,9 @@
 
 I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves building web applications and enhancing my coding skills.
 
+[![Twitter](https://img.shields.io/badge/Twitter-%40TWadpillewar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TWadpillewar)
+[LinkedIn](https://www.linkedin.com/in/tejas-wadpillewar7)
+
 ---
 
 ### 🚀 Skills
@@ -37,8 +40,8 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinhandle)
-[![Twitter](https://img.shields.io/badge/Twitter-@TWadpillewar-blue?style=for-the-badge&logo=twitter)]([https://twitter.com/yourtwitterhandle](https://x.com/TWadpillewar?t=6eqSKG7EU337fN1hVXm5FQ&s=08))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-wadpillewar7)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TWadpillewar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TWadpillewar)
 
 ---
 
