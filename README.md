@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinhandle)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourtwitterhandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-@TWadpillewar-blue?style=for-the-badge&logo=twitter)]([https://twitter.com/yourtwitterhandle](https://x.com/TWadpillewar?t=6eqSKG7EU337fN1hVXm5FQ&s=08))
 
 ---
 
