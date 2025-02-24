@@ -2,7 +2,7 @@
 
 I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves building web applications and enhancing my coding skills.
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40TWadpillewar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TWadpillewar)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TWadpillewar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TWadpillewar)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-wadpillewar7)
 
 ---
@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 
 ### 📌 Currently Working On
 
-- 📝 **Blog Website** using **ReactJS, Tailwind CSS, Appwrite, and TinyMCE**.
+- 📝 **[StackOverflow Fullstack Clone](https://github.com/TEJASWADPILLEWAR7/stackover-fullstack-clone)** - A full-stack clone of StackOverflow, built with modern web technologies to replicate its core functionalities like Q&A, voting, and user interactions.
 
 ### 📖 Currently Learning
 
@@ -33,14 +33,14 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 
 ### 📬 How to Reach Me
 
-- 📧 Email: **Tejaswadpillewar7@gmail.com**
+- 📧 Email: **Tejaswadpillewar7@gmail.com**  
 - 📞 Phone: **+91 9146195708**
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-wadpillewar7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-wadpillewar7)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40TWadpillewar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TWadpillewar)
 
 ---
