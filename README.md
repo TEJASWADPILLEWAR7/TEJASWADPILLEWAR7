@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 
 ### 📌 Currently Working On
 
-- 📝 **[StackOverflow Fullstack Clone](https://github.com/TEJASWADPILLEWAR7/stackover-fullstack-clone)** - A full-stack clone of StackOverflow, built with modern web technologies to replicate its core functionalities like Q&A, voting, and user interactions.
+- 📝 **[AI-powered-SAAS-image-video-compressor](https://github.com/TEJASWADPILLEWAR7/AI-powered-SAAS-image-video-compressor)** - A full-stack clone of StackOverflow, built with modern web technologies to replicate its core functionalities like Q&A, voting, and user interactions.
 
 ### 📖 Currently Learning
 
