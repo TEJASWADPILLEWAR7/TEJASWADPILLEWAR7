@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** who loves b
 
 ### 📌 Currently Working On
 
-- 📝 **[AI-powered-SAAS-image-video-compressor](https://github.com/TEJASWADPILLEWAR7/AI-powered-SAAS-image-video-compressor)** - A full-stack clone of StackOverflow, built with modern web technologies to replicate its core functionalities like Q&A, voting, and user interactions.
+- 📝 **[AI-powered-SAAS-image-video-compressor](https://github.com/TEJASWADPILLEWAR7/AI-powered-SAAS-image-video-compressor)** - AI-Powered SaaS Image/Video Compressor using Next.js, Cloudinary, Prisma, NeonDB, and Daisy UI. It enables efficient AI-driven media compression with a modern UI, scalable backend, and seamless cloud integration. Built for performance, ease of use, and SaaS deployment. 🚀
 
 ### 📖 Currently Learning
 
