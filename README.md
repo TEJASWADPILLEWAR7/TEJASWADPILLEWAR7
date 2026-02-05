@@ -42,7 +42,7 @@ https://github.com/TEJASWADPILLEWAR7
 ---
 
 ### 📬 Contact Me  
-- 📧 Email: **tejaswadpillewar7@gmail.com**  
+- 📧 Email: **tejaswadpillewar2@gmail.com**  
 - 📞 Phone: **+91 9146195708**  
 
 ---
