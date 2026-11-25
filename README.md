@@ -1,6 +1,6 @@
 ## Hi there, I'm Tejas Wadpillewar 👋  
 
-🚀 **Full-Stack & React Native Developer** | 💻 Problem Solver | 📈 Build in Public  
+🚀 **Full-Stack & React Native Developer** | 💻 Problem Solver  
 
 I’m a Full-Stack & React Native Developer passionate about building scalable web applications, offline-first mobile apps, and AI-powered SaaS tools. Focused on writing clean TypeScript/JavaScript, designing robust backend architectures, and shipping production-ready products.
 
@@ -24,10 +24,11 @@ I’m a Full-Stack & React Native Developer passionate about building scalable w
 ### 💼 Experience & Featured Projects  
 
 - **Freelance Full-Stack Developer @ Farm Mitra** — Built and deployed a client-facing web application with Next.js, React, PostgreSQL, and Razorpay payment integration.  
-- **Twelv** — Offline-first mobile productivity app built with React Native, Expo, and TypeScript around a 12-week execution system.  
-- **XReplica** — AI-powered reply automation SaaS and Chrome extension built with Next.js, Plasmo, and Gemini.  
-- **AI Web Scraper & Summarizer** — Full-stack content extraction pipeline powered by Next.js, TypeScript, and Node.js.  
-- **Project Management API** — Production-grade REST API featuring JWT token rotation, RBAC, and MongoDB.  
+- **Twelv** — Offline-first mobile productivity app built with React Native, Expo, and TypeScript around a 12-week execution system. ([Project Details](https://www.tejaswadpillewar.site/projects/twelv) · [GitHub](https://github.com/TEJASWADPILLEWAR7/Twelv))  
+- **XReplica** — AI-powered reply automation SaaS and Chrome extension built with Next.js, Plasmo, and Gemini. ([Live Demo](https://xreplica.vercel.app/) · [GitHub](https://github.com/TEJASWADPILLEWAR7/xreplica))  
+- **AI Web Scraper & Summarizer** — Full-stack content extraction pipeline powered by Next.js, TypeScript, and Node.js. ([Live Demo](https://ai-web-scraper-summarizer-nine.vercel.app/) · [GitHub](https://github.com/TEJASWADPILLEWAR7/ai-web-scraper-summarizer))  
+- **Project Management API** — Production-grade REST API featuring JWT token rotation, RBAC, and MongoDB. ([API Docs](https://www.tejaswadpillewar.site/projects/project-management-api) · [GitHub](https://github.com/TEJASWADPILLEWAR7/project-management-api))  
+- **KPaisa Flight Seat Selection** — Interactive flight seat selection web application. ([Live Demo](https://kpaisa-flight-seat-selection.vercel.app/) · [GitHub](https://github.com/TEJASWADPILLEWAR7/kpaisa-flight-seat-selection))  
 
 🔗 **Explore all repositories:** [github.com/TEJASWADPILLEWAR7](https://github.com/TEJASWADPILLEWAR7)  
 
@@ -41,6 +42,7 @@ I’m a Full-Stack & React Native Developer passionate about building scalable w
 ---
 
 ### 📬 Contact Me  
+- 🌐 **Portfolio:** [tejaswadpillewar.site](https://tejaswadpillewar.site/)  
 - 📧 **Email:** tejaswadpillewar2@gmail.com  
 - 📞 **Phone:** +91 9146195708  
 
@@ -48,5 +50,6 @@ I’m a Full-Stack & React Native Developer passionate about building scalable w
 
 ### 🌐 Connect With Me  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-tejaswadpillewar.site-000000?style=for-the-badge&logo=vercel)](https://tejaswadpillewar.site/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Wadpillewar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-wadpillewar7)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40TWadpillewar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TWadpillewar)
